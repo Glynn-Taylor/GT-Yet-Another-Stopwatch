@@ -1,7 +1,10 @@
-# Project Title
+# GT Yet Another Stopwatch
 
 A simple, always on top winform stopwatch with a black, borderless background for use in timelapses.
-![Stopwatch preview](https://raw.githubusercontent.com/glynn-taylor/GT-Yet-Another-Stopwatch/master/preview.png)
+
+<p align="center">
+	<img width="194" height="81" src="https://raw.githubusercontent.com/glynn-taylor/GT-Yet-Another-Stopwatch/master/preview.png">
+</p>
 
 ## Getting Started
 
