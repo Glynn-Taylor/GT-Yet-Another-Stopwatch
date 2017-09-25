@@ -20,7 +20,7 @@ Windows 7/10
 
 ## Authors
 
-* **Glynn Taylor** - [Site](www.glynntaylor.co.uk)
+* **Glynn Taylor** - [Site](http://www.glynntaylor.co.uk)
 
 See also the list of acknowledgments below.
 
